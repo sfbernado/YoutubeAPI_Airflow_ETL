@@ -11,7 +11,7 @@ def run_youtube_etl():
 
     api_service_name = "youtube"
     api_version = "v3"
-    api_key = "YOUR_API_KEY"
+    api_key = "AIzaSyC_-LZwMvYSSRjpCQX3-qumbNh88nKq72M"
     channel_id = "UC1dI4tO13ApuSX0QeX8pHng" # channel id of GadgetIn
     playlist_id = ""
 
