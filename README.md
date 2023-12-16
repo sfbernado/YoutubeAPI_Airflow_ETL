@@ -1,1 +1,3 @@
 # YoutubeAPI_Airflow_ETL
+
+Conducted a streamlined Extract, Transform, Load (ETL) project using the YouTube API, incorporating Apache Airflow for enhanced automation and scheduling. Leveraging the YouTube API, I seamlessly extracted relevant data and employed Apache Airflow to automate the ETL workflows. The project encompassed basic data transformation techniques to prepare the extracted information for analysis, and the transformed data was efficiently loaded into a storage system. This hands-on experience not only demonstrated proficiency in data extraction and transformation but also show cased the added value of Apache Airflow in automating and scheduling ETL processes for improved efficiency.
